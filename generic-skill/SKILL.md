@@ -1,5 +1,5 @@
 ---
-name: Nuna guidelines skill
+name: generic-skill
 description: Apply this skill always if it is added in a project
 license: MIT
 metadata:
