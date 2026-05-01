@@ -9,7 +9,7 @@ metadata:
 
 # Javascript / Typescript
 
-- every time must end with `;` symbol, if missing - add
+- there must be always at least 2 spaces between "import section" and the "main code"
 
 ## User reporting
 
