@@ -1,10 +1,10 @@
 ---
 name: generic-skill
-description: Apply this skill always if it is added in a project
+description: Always apply these rules unconditionally on every file edit 
 license: MIT
 metadata:
   author: Victor Sheyanov
-  version: '1.0.0'
+  version: '2.0.0'
 ---
 
 # Javascript / Typescript
